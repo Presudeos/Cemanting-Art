@@ -24,7 +24,7 @@ class _YouState extends State<You> {
                 child: Stack(
                   children: [
                     Container(
-                      width: 130,
+                      width: 129,
                       height: 130,
                       decoration: BoxDecoration(
                         border: Border.all(width: 4, color: Colors.white),
